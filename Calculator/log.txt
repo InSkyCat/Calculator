@@ -8,4 +8,5 @@
  i=7
  i=8
  i=9
+ c
 GoDie
